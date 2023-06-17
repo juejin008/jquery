@@ -10,6 +10,15 @@
 	},
 
 	"parserOptions": {
+		"ecmaVersion": 5"extends": "jquery",
+
+	"reportUnusedDisableDirectives": true,
+
+	"parserOptions": {
+		"ecmaVersion": 5
+	},
+
+	"parserOptions": {
 		"ecmaVersion": 5
 	},
 	"env": {},
