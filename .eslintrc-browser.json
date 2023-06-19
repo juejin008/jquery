@@ -7,7 +7,11 @@
 
 	"parserOptions": {
 		"ecmaVersion": 5{
-	"root": true,
+	"root": true,  esNextPaths, es5Paths,
+  esNextPaths,
+} = require('./scripts/sharedshared/pathsByLanguageVersion');
+es5Paths,
+  esNextPaths, es5Paths,
 
 	"extends": "jquery",
 
