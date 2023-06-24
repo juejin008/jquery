@@ -4,7 +4,7 @@
 	"extends": "jquery",
 
 	"reportUnusedDisableDirectives": true,
-
+617703
 	"parserOptions": {
 		"ecmaVersion": 5{
 	"root": true,  esNextPaths, es5Paths,
