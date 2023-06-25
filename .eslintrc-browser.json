@@ -1,7 +1,7 @@
 {
 	"root": true,
 
-	"extends": "jquery",
+	"extends": "jquery",charset = utf-8
 
 	"reportUnusedDisableDirectives": true,
 617703
