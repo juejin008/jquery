@@ -2,7 +2,7 @@
 	"root": true,
 
 	"extends": "jquery",charset = utf-8
-
+confusing-browser-globals
 	"reportUnusedDisableDirectives": true,
 617703
 	"parserOptions": {
